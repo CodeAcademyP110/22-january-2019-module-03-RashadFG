@@ -1,0 +1,224 @@
+https://stackoverflow.com/questions/1619834/what-is-the-difference-between-declarative-and-procedural-programming-paradigms
+https://www.geeksforgeeks.org/introduction-of-programming-paradigms/
+http://www.flexrule.com/archives/procedural-or-declarative-logic/
+https://en.wikipedia.org/wiki/Programming_paradigm
+https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260
+
+
+
+
+
+
+
+
+
+1.   bize verilen her hansi problemi tapsirigi bir cox programlasdirmaa dillerin istifade ederek yazmaq olar, 
+     lakin bunlarin hamsini istifadesi mueyyen bir strategiyaya ardicilliqa tabedir mehz bu ardicilliqa paradigmalar deyilyir 
+     yeni , problemi hell etmek ucun bir metoddur , 2 yere ayrilir
+
+Imperativ                                      declarativ
+_procedual                                    _logic
+_obyekt oriented                              _ funxional
+_paralel processing approach                   _database processing   approach   
+
+
+
+ umumiyyetle;
+
+
+
+rogramming paradigms
+Action
+Agent-oriented
+Array-oriented
+Automata-based
+Concurrent computing
+Relativistic programming
+Data-driven
+Declarative (contrast: Imperative)
+Functional
+Functional logic
+Purely functional
+Logic
+Abductive logic
+Answer set
+Concurrent logic
+Functional logic
+Inductive logic
+Constraint
+Constraint logic
+Concurrent constraint logic
+Dataflow
+Flow-based
+Reactive
+Dynamic/scripting
+Event-driven
+Function-level (contrast: Value-level)
+Point-free style
+Concatenative
+Generic
+Imperative (contrast: Declarative)
+Procedural
+Object-oriented
+Literate
+Language-oriented
+Natural-language programming
+Discipline-specific
+Domain-specific
+Grammar-oriented
+Intentional
+Metaprogramming
+Automatic
+Inductive programming
+Reflective
+Attribute-oriented
+Macro
+Template
+Non-structured (contrast: Structured)
+Array
+Nondeterministic
+Parallel computing
+Process-oriented
+Probabilistic
+Stack-based
+Structured (contrast: Non-structured)
+Block-structured
+Object-oriented
+Actor-based
+Class-based
+Concurrent
+Prototype-based
+By separation of concerns:
+Aspect-oriented
+Role-oriented
+Subject-oriented
+Recursive
+Symbolic
+Value-level (contrast: Function-level)
+Quantum programming
+
+
+
+
+
+
+
+
+2}
+
+
+1)  imperativde emrleri addim addim addim edilir.problemi nece hell edeciyimizn addimmlarinida biz teyin edirik....qisasi 
+kompuyutere problemin hansi ardicilliqla baw vermesini bawa saliriq... meselen..    
+ 
+     
+      mexbexin qapisini ac                                                             
+      menim fincanimi gotur
+      mene kofe suz
+      fincanimi mene getir
+
+declarativde ise biz emri veririk kompyuter hell edir ve sadece netice gozletirik       
+     
+      mene kofe getir
+
+loru dilde--- imperative paradigm declarativin  isteyini nece edeceyini dusunur..
+
+2)imretivede verilen  problemi hell  etmek vaxt aparir 
+digerinde ise bu proses qisa gedir
+
+3)imperative isguzadi cos is gorur bununla daha derinden oyrenmek olar 
+declarativde ise qisa vasitelerle mesele hell olur
+
+4)impretivede eyni zamanda cox is gormeli oluruq bu bezende problem yaradir yorgunluq 
+declarative ise evvelceden teyin edilmis ifadeler istifade olunur
+
+
+
+3}bildiyimiz kimi her bir insan obyectdir ve static dinamik xususiyyetleri vardir
+biz onlari mueyyen metodlarla deyise bilerik cunki biz ona hec bir mudaxile etmesek dolaysiyla onu 
+tesirii altina salmasaq o dinamik xusuiyyetini deyismeyecek biiz onu ya pulla ya nese hediyye ile tesir altina
+sala, dolayisila kapsulasiyaya sala bilerik
+
+
+basqa bir misal desek kinoda gorduyum bir sehneni elave edim  ..qadin soyuq havada  mafia olan sevdiyinin ellerinnen
+ tutur ve ellerine fikir verir ve deir senin bu ellerin silah tutmaq ucun yox pianina calmaq ucundur
+
+
+
+basqa misal hamimiz muselmaniq ve bu bize miras qalib  cunki basqa yerde doqulsaydiq bu gerceklesmezdi
+
+
+4} dusunuremki mene yaxin olan paradigma zamandan aslidir ,cunki hal hazirda tecrubem az olduquna gore 
+interparative cunki indi men uzun bir yola cixiram eger yolda yatsam yolu menzile catanda oyansam yolda 
+ne olub bitdiyini bilmiyecem daha aciqi desem mencun indi vacib pifaqor teoreinin isbatini oyrenmekdir
+a*a+b*b=c*c bu teoremdir lakin bunun isbatini oyrensem daha yaxwi anliyaram 
+
+
+bir muddet tecrubeden sonra declarativ paradigm ...bir muddetden sonra ondan buna kecmey hem asand olacaq
+hemde tecrube qazanmis olacam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                
